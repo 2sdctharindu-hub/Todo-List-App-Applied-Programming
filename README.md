@@ -15,7 +15,7 @@ A Python-based desktop application built with Tkinter that features task managem
 * `ui_components.py`: Defines the layout and styling of the Tkinter widgets.
 
 ## How to Run
-1. Ensure you have Python installed on your system.
+1. Ensure you have Python installed on your system.(Python 3.10 or higher is recommended)
 2. Clone or download this repository.
 3. Navigate to the project directory and run the following command:
    ```bash
