@@ -16,7 +16,8 @@ A Python-based desktop application built with Tkinter that features task managem
 
 ## How to Run
 1. Ensure you have Python installed on your system.(Python 3.10 or higher is recommended)
-2. Clone or download this repository.
-3. Navigate to the project directory and run the following command:
+2. Here is the link for latest python version https://www.python.org/ftp/python/3.14.4/python-3.14.4-amd64.exe
+3. Clone or download this repository.
+4. Navigate to the project directory and run the following command:
    ```bash
    python main.py
