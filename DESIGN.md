@@ -67,10 +67,10 @@ Md Ahmed:
           (iii) Ensures correct date formats, valid task entries, and overall program testing.
 
 6. Module & Function Breakdown
-          *main.py: The entry point that creates the GUI, sets up frames for active and completed tasks, and connects all functions. (Handled by: Nadeera Tharindu)
-          *ui_components.py: Contains the visual elements and layout of the application. (Handled by: Nadeera Tharindu)
-          *logic_module.py: Functions for managing tasks, adding/completing tasks, and grouping them by date. (Handled by: Md Ahmed)
-          *storage_module.py: Functions for saving/loading tasks from tasks.txt to persist data. (Handled by: Md Ahmed)
+main.py: The entry point that creates the GUI, sets up frames for active and completed tasks, and connects all functions. (Handled by: Nadeera Tharindu)
+ui_components.py: Contains the visual elements and layout of the application. (Handled by: Nadeera Tharindu)
+logic_module.py: Functions for managing tasks, adding/completing tasks, and grouping them by date. (Handled by: Md Ahmed)
+storage_module.py: Functions for saving/loading tasks from tasks.txt to persist data. (Handled by: Md Ahmed)
 
 7. Data Storage & Structures
 Variables/Collections: We use a dictionary named tasks to store all tasks, where:
