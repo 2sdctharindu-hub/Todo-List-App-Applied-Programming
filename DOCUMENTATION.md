@@ -1,4 +1,4 @@
-# Collaborative To-Do list App
+# Collaborative To-Do List App
 
 This application is a Python-based task management tool built using the **Tkinter** library. It allows users to schedule tasks by date, track completion times, and archive finished tasks while providing **Undo/Redo** functionality.
 
@@ -50,5 +50,5 @@ The application follows a modular structure to keep the code organized:
 
 ## ⚠️ Requirements
 * **Python 3.x**
-* **Local Modules:** `storage_module.py`, `logic_module.py`, and `ui_components.py` must be in the same directory.
-* **Libraries:** `tkinter`, `datetime`.
+* **Local Modules:** `storage_module.py`, `logic_module.py`, `main.py` and `ui_components.py` must be in the same directory.
+* **Libraries:** `tkinter`, `tkcalendar`, `babel` .
