@@ -1,10 +1,13 @@
 # Changelog
-
+## [1.2.0] - 2026-04-28
+### Added
+- **Final Testing:** Conducted comprehensive testing of the end-to-end workflow (Adding, Toggling, and Archiving).
+- **Added calender & Time picker:** Added a feature to record the exact time & date a task is created.
 
 
 ## [1.2.0] - 2026-04-27
 ### Added
-  **Final Testing:** Conducted comprehensive testing of the end-to-end workflow (Adding, Toggling, and Archiving).
+- **Final Testing:** Conducted comprehensive testing of the end-to-end workflow (Adding, Toggling, and Archiving).
 - **Creation Timestamps:** Added a feature to record the exact time a task is created (e.g., "Created: 14:30").
 - **Enhanced Archive System:** Improved the "Clear & Archive" function to save all completed tasks into a single history file (`completed_history.txt`) before removing them from the UI.
 - **Detailed Done Stamps:** Completion records now show both the Date and the Time (e.g., "Done: 2026-04-27 | 19:15").
